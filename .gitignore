@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+uploads/*
+!uploads/.gitkeep
+.streamlit/secrets.toml
+.vscode/
+*.log
